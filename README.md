@@ -1,6 +1,6 @@
-![feedbk.ai logo](logo-one-line.png)
+<img src="logo-one-line.png" alt="feedbk.ai logo" width="300">
 
-# Feedbk MCP - AI-moderated Interview Skill
+# AI-Moderated Interviews & Surveys via MCP
 
 [![Website](https://img.shields.io/badge/Website-feedbk.ai-blue)](https://feedbk.ai) [![Docs](https://img.shields.io/badge/Docs-blog-green)](https://feedbk.ai/en/blog/) [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://github.com/feedbk-ai/feedbk-skill-mcp/blob/main/LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue)](https://pypi.org/project/feedbk-skill-mcp/)
 
