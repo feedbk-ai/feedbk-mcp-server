@@ -1,4 +1,4 @@
-<img src="logo-one-line.png" alt="feedbk.ai logo" width="300">
+<a href="https://feedbk.ai"><img src="logo-one-line.png" alt="feedbk.ai logo" width="300"></a>
 
 # AI-Moderated Interviews & Surveys via MCP
 
