@@ -1,0 +1,14 @@
+[project]
+name = "feedbk-skill-mcp"
+version = "0.1.0"
+description = "MCP server for feedbk.ai interview skills"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=2.0.0",
+]
+
+[project.scripts]
+feedbk-skill-mcp = "server:main"
+
+[tool.uv.sources]
+fastmcp = { git = "https://github.com/jlowin/fastmcp.git" }
