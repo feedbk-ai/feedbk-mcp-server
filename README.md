@@ -1,4 +1,4 @@
-![feedbk.ai logo](https://feedbk.ai/logo.png)
+![feedbk.ai logo](logo-one-line.png)
 
 # Feedbk MCP - AI-moderated Interview Skill
 
